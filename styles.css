@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /*防止出现滚动条*/
+  background-color: #000; /*黑色背景， 确保p5.js 背景不会覆盖*/
+}
